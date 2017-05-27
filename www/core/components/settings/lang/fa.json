@@ -1,5 +1,6 @@
 {
     "about": "درباره",
+    "appname":"آموزه",
     "cacheexpirationtime": "زمان اعتبار کشها (miliseconds)",
     "configuringnotifications": "شما در حال پیکربندی اطلاعیه‌های «{{$a}}» هستید.",
     "cordovadevicemodel": "مدل دستگاه کُردوا",
